@@ -152,8 +152,21 @@ h4 {
 
 .conteudo-principal {
   display: flex;
-  padding: 50px;
+  padding: 80px;
   justify-content: space-around;
+}
+
+.nossos-produtos {
+  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  font-size: 60px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #23232e;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 150px;
 }
 
 .conteudo0 {
