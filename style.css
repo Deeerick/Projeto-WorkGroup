@@ -94,6 +94,12 @@ html {
   
 }
 
+.logowg {
+  display: flex;
+  position: relative;
+  top: 4px;
+}
+
 .search{
   background-color:transparent;
   border-radius: 30px;
